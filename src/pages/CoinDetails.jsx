@@ -1,5 +1,4 @@
-export default function CoinDetails(){
-    return(
-        <div>Coin Details</div>
-    )
+export default function CoinDetails() {
+  return <h1>CoinDetails Page</h1>;
 }
+

@@ -6,7 +6,7 @@ function App() {
     <div>
       <Navbar/>
       <AppRoutes/>
-      
+     
     </div>
   );
 }
